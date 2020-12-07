@@ -55,3 +55,43 @@ description: '關於如何使用本站 Bookmarklet，特別是在各種手機平
 
 ![](.gitbook/assets/img_9546.png)
 
+### Android（以 Google Chrome - Xperia XZ 為例）
+
+1. 以 Google Chrome 開啟 Otohime 首頁。
+2. 產生權杖後，按下「更新 Otohime 成績」按鈕。這時將會將 Bookmarklet 連結到剪貼簿。  
+
+
+   ![](.gitbook/assets/screenshot_20201207-214423.png)
+
+3. 按下右上功能表，點擊上面的星星，將此頁加入書籤。  
+
+
+   ![](.gitbook/assets/screenshot_20201207-214436.png)
+
+4. 再點一次右上功能表，進入「書籤」。
+5. 選擇「行動版書籤」。  
+
+
+   ![](.gitbook/assets/screenshot_20201207-214532.png)
+
+6. 找到「更新 Otohime 成績」，點擊右側的三個點功能表，按「編輯」。  
+
+
+   ![](.gitbook/assets/screenshot_20201207-214550.png)
+
+7. 網址清空後貼上 Bookmarklet 連結。  
+
+
+   ![](.gitbook/assets/screenshot_20201207-214645.png)
+
+8. 按 Back 兩次後按 X 關閉書籤視窗。Bookmarklet 至此設定完成。
+9. 進到 DX NET 國際版首頁。
+10. 點擊網址列，陸續輸入「otohime」，直到看到「更新 Otohime 成績」項目為止。  
+
+
+    ![](.gitbook/assets/screenshot_20201207-214805.png)
+
+11. 恭喜你成功了！
+
+![](.gitbook/assets/screenshot_20201207-214811.png)
+
