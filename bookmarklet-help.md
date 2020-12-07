@@ -4,9 +4,7 @@ description: '關於如何使用本站 Bookmarklet，特別是在各種手機平
 
 # Bookmarklet 操作說明
 
-
-
-#### 桌面瀏覽器（以 Google Chrome 為例）
+### 桌面瀏覽器（以 Google Chrome 為例）
 
 1. 請先顯示你的的書籤列，到功能表→書籤→選擇「顯示書籤列」。
 
@@ -19,4 +17,8 @@ description: '關於如何使用本站 Bookmarklet，特別是在各種手機平
 3. 進入 maimai DX NET 國際版首頁後，再點一下「更新 Otohime 成績」即可。
 
 ![](.gitbook/assets/tu-pian-%20%282%29.png)
+
+### iOS（以 Safari 為例）
+
+
 
