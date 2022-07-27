@@ -23,11 +23,14 @@ Otohime 的內部等級僅提供 Level 12 以上曲目的等級，Rating 佔分�
 * 宿星審判 MASTER：14.4（與日版 UNiVERSE 上架時一致）
 * 全世界共通リズム感テスト MASTER：12.0（國際版限定）
 
-我們在 UNiVERSE 時獨立驗證了以下歌曲的狀況（三曲皆為 11+ 升格）：
+我們在 UNiVERSE 時獨立驗證了以下歌曲的狀況（12.0 三曲皆為 11+ 升格）：
 
 * ポップミュージックは僕のもの MASTER：12.0
 * 色は匂へど散りぬるを MASTER：12.0
 * イロトリドリのメロディ MASTER：12.0
+* コスモポップファンクラブ MASTER：13.0（與日版 UNiVERSE PLUS 上架時一致）
+* 8-EM MASTER：13.8（與日版 UNiVERSE PLUS 上架時一致）
+* OTOGEMA MASTER：13.8（國際版同步上架一併驗證）
 
 ### Rating 是怎麼產生的？
 
